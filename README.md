@@ -1,6 +1,6 @@
 ## 1. Data Description
 
-This is a simulated dataset created to demonstrate skills in Excel Dashboards. The dataset was intentionally designed with imperfections such as: incorrect data formats, duplicated entries, inconsistent text casing (uppercase/lowercase), extra spaces, missing spacing, and spelling errors.
+This is a simulated dataset created to demonstrate skills in Excel. The dataset was intentionally designed with imperfections such as: incorrect data formats, duplicated entries, inconsistent text casing (uppercase/lowercase), extra spaces, missing spacing, and spelling errors.
 
 It contains **14 columns** and **733 rows** (including headers), with the following fields:
 

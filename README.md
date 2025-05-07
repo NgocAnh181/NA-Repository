@@ -35,6 +35,7 @@ It contains **14 columns** and **733 rows** (including headers), with the follow
 - Change Type  
 
 ### • Data Analysis & Visualization
+- Used VLOOKUP, INDEX, MATCH functions
 - Used **Pivot Tables** for key metric aggregation  
 - Built an **interactive Dashboard** using Slicers and dynamic charts  
 
